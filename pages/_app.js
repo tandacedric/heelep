@@ -8,7 +8,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>AJOUT D'UN UTILISATEUR</title>
+        <title>AJOUT DUN UTILISATEUR</title>
       </Head>
 
       <div className="top-bar">
